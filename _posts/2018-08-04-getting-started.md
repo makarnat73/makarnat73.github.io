@@ -1,5 +1,8 @@
 ---
+layout: post
 title: О Jekyll'е, MarkDown'е, и прочих неприятностях
+date: 2018-08-04 23:27:37 +0300
+categories: makrdown jekyll tutorial
 ---
 
 Этот блог построен с помощью системы Jekyll, которая способна генерировать страницы  формата HTML из
