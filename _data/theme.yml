@@ -1,0 +1,38 @@
+# Theme Skin
+skin: steel # default, night, plum, sea, soft, steel
+
+# Theme Text
+t:
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu: "Меню"
+  search: "Поиск"
+  site_search: "Поиск по сайту"
+  results_found: "Найденные результаты"
+  search_placeholder_text: "Введите текст для поиска..."
+  home: "Домой"
+  newer: "Новое"
+  older: "Старое"
+  email: "Email"
+  subscribe: "Subscribe"
+  read_more: "Read More"
+  posts: "Posts"
+  page: "Page"
+  of: "of"
+  min_read: "min read"
+  present: "Present"
+
+# Google Fonts
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+
+# Link to specific internal pages in the navigation.
+# Create a custom list to override the default setting of including links to all
+# pages that have a `title`. Add raw page paths in the order you'd like.
+
+navigation_pages:
+  - about.md
+  - cv.md

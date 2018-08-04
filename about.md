@@ -1,8 +1,10 @@
 ---
+title: Обо мне
 layout: page
-title: About
-permalink: /about/
+permalink: "/about/"
 ---
+
+**TODO:** эта страница должна содержать описание должности и ряд ссылок для особо любопытных.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
