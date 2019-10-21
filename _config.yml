@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Описание этого сайта, которое редактируется в файле _config.yml.
   Его следует подправить позже.
 
-copyright: © 2018 Личный блог Макаровой Н.Н.
+copyright: © 2018-2019 Личный блог Макаровой Н.Н.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://makarnat73.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
