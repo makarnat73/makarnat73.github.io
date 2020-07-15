@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ещё немного о себе... и о других
 ---
 ## ВСЕМ РОЖДЁННЫМ В СССР
