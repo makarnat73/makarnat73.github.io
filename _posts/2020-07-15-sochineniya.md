@@ -2,7 +2,9 @@
 title: Ещё немного о себе... и о других
 ---
 
-![герб СССР](http://www.great-country.ru/images/sovetskaja_simvolika/gerb/gerb_sssr_1958-1991.png)
+[герб СССР]: # (http://www.great-country.ru/images/sovetskaja_simvolika/gerb/gerb_sssr_1958-1991.png)
+
+![герб СССР](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_the_Soviet_Union_%281946%E2%80%931956%29.svg/467px-Coat_of_arms_of_the_Soviet_Union_%281946%E2%80%931956%29.svg.png)
 
 ## ВСЕМ РОЖДЁННЫМ В СССР
 
