@@ -1,0 +1,9 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "_data",
+    "_includes",
+    "_sass",
+    "_site"
+  ]
+}

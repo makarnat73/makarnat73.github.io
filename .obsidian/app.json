@@ -1,0 +1,14 @@
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "_data/",
+    "_includes/",
+    "_sass/",
+    "_site/"
+  ],
+  "showFrontmatter": true,
+  "showUnsupportedFiles": false,
+  "showLineNumber": true
+}
