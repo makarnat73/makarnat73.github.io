@@ -1,5 +1,5 @@
 {
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
   "userIgnoreFilters": [
@@ -10,5 +10,7 @@
   ],
   "showFrontmatter": true,
   "showUnsupportedFiles": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_posts"
 }
