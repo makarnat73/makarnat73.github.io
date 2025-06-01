@@ -73,7 +73,7 @@
   },
   "features": {
     "alias": {
-      "enabled": false,
+      "enabled": true,
       "strategy": "ensure",
       "validator": "fr"
     },

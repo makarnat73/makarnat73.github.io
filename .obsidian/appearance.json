@@ -1,5 +1,7 @@
 {
   "accentColor": "#c17685",
   "theme": "moonstone",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "translucency": false,
+  "nativeMenus": false
 }
